@@ -1,0 +1,5 @@
+{
+  "name": "TikTok Clone Engine",
+  "description": "Analyze viral TikToks and generate AI prompts to recreate them using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
